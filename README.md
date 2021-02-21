@@ -1,18 +1,10 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/035/019/793/original/tima-baish-wellcum.gif?1613903332" width="70%">
 
-### Hi everyone, I'm Temirlan 👋
-
-### I'm a c# Developer
-
-## my backend skills
-
+### My skills
 - c#
 - c++
-- typescript
-
-## my frontend skills
-
-- vue.js
-- html,css
+- js
+- html
+- css
 
 
