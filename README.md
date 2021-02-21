@@ -2,7 +2,7 @@
 
 ### My skills &#8195; &#8195; &#8195; and what programs i use
 - c# &#8195; &#8195; &#8195; &#8195; - Visual studio
-- c++ &#8195; &#8195; &#8195;&#8195; - Visual studio Code
+- c++ &#8195; &#8195; &#8195; &#8195; - Visual studio Code
 - js &#8195; &#8195; &#8195; &#8195; - Figma
 - html
 - css
