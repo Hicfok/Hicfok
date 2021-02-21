@@ -1,4 +1,4 @@
-<img src="https://cdnb.artstation.com/p/assets/images/images/035/019/793/original/tima-baish-wellcum.gif?1613903332" width="50%" margin=center>
+<img src="https://cdnb.artstation.com/p/assets/images/images/035/019/793/original/tima-baish-wellcum.gif?1613903332" width="50%" margin-left=500px>
 ### Hi everyone, I'm Temirlan 👋
 
 ### I'm a c# Developer
