@@ -13,4 +13,4 @@
 - vue.js
 - html,css
 
-<img src="https://twitter.com/i/status/1363412153382932481" width="100%">
+<img src="https://www.artstation.com/artwork/w6w0Q6" width="100%">
