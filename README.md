@@ -13,4 +13,4 @@
 - vue.js
 - html,css
 
-<img src="https://www.artstation.com/artwork/w6w0Q6" width="100%">
+<img src="https://cdna.artstation.com/p/assets/images/images/035/018/530/original/tima-baish-.gif?1613897985" width="100%">
