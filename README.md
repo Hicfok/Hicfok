@@ -13,4 +13,4 @@
 - vue.js
 - html,css
 
-<img src="https://cdna.artstation.com/p/assets/images/images/027/038/074/large/tima-baish-pomogite.jpg?1590422964" width="100%">
+<img src="https://twitter.com/i/status/1363412153382932481" width="100%">
