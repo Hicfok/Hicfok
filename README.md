@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi everyone, I'm Temirlan 👋
 
-<!--
-**Hicfok/Hicfok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a c# Developer
 
-Here are some ideas to get you started:
+## my backend skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- c#
+- c++
+- typescript
+
+## my frontend skills
+
+- vue.js
+- html,css
+
+<img src="https://cdna.artstation.com/p/assets/images/images/027/038/074/large/tima-baish-pomogite.jpg?1590422964" width="100%">
